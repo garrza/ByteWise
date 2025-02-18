@@ -7,17 +7,15 @@ ByteWise is an interactive iOS app that teaches binary, hexadecimal, and compute
 ### Binary Basics
 Learn and practice binary number conversions with an interactive bit toggle interface and timed challenges. Perfect for beginners starting their journey into computer science fundamentals.
 
-[Binary Basics Screenshot]
+![Binary Basics Screenshot](assets/binary.png)
 
 ### Binary Operations 
 Master bitwise operations (AND, OR, XOR, NOT, SHIFT) through guided examples and practice exercises. Visualize how bits interact and understand the foundation of computer operations.
 
-[Binary Operations Screenshot]
-
 ### Hexadecimal
 Understand hexadecimal notation and practice converting between number systems with a helpful digit guide. Learn why hex is crucial in modern computing.
 
-[Hexadecimal Screenshot]
+![Hexadecimal Screenshot](assets/hex.png)
 
 ### Real-World Applications
 Explore how binary is used in everyday computing:
@@ -25,14 +23,11 @@ Explore how binary is used in everyday computing:
 - RGB color coding for digital graphics
 - File sizes and storage calculations
 - Unix file permissions and access control
-- Network addressing and protocols
-
-[Applications Screenshot]
 
 ### ASCII Text Converter
 Convert between text characters and their binary/decimal ASCII values with an intuitive interface. Understand how computers store and process text.
 
-[ASCII Screenshot]
+![ASCII Screenshot]((assets/ascii.png)
 
 ## Technologies
 - SwiftUI for modern, responsive UI
