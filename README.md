@@ -27,7 +27,7 @@ Explore how binary is used in everyday computing:
 ### ASCII Text Converter
 Convert between text characters and their binary/decimal ASCII values with an intuitive interface. Understand how computers store and process text.
 
-![ASCII Screenshot]((assets/ascii.png)
+![ASCII Screenshot](assets/ascii.png)
 
 ## Technologies
 - SwiftUI for modern, responsive UI
